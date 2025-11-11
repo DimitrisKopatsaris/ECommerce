@@ -1,0 +1,17 @@
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Infrastructure.deps.json
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Infrastructure.runtimeconfig.json
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Infrastructure.dll
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Infrastructure.pdb
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Domain.dll
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Domain.pdb
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerc.B0B31267.Up2Date
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.dll
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net9.0\refint\ECommerce.Infrastructure.dll
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.pdb
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.genruntimeconfig.cache
+C:\Users\dimit\Code\ECommerce\src\ECommerce.Infrastructure\obj\Debug\net9.0\ref\ECommerce.Infrastructure.dll

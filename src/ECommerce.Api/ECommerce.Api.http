@@ -1,0 +1,34 @@
+@ECommerce_Api_HostAddress = http://localhost:5154
+# If you run the HTTPS profile, use:
+# @ECommerce_Api_HostAddress = https://localhost:7204
+
+### Health
+GET {{ECommerce_Api_HostAddress}}/ping
+
+### DB Check
+GET {{ECommerce_Api_HostAddress}}/db-check
+
+### Products
+GET {{ECommerce_Api_HostAddress}}/api/products
+
+###
+POST {{ECommerce_Api_HostAddress}}/api/products
+Content-Type: application/json
+
+{
+  "name": "Laptop",
+  "price": 1299.99,
+  "stockQuantity": 10
+}
+
+### Customers
+GET {{ECommerce_Api_HostAddress}}/api/customers
+
+###
+POST {{ECommerce_Api_HostAddress}}/api/customers
+Content-Type: application/json
+
+{
+  "name": "Dimitris",
+  "email": "dimitris@example.com"
+}
