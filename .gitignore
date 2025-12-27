@@ -1,13 +1,14 @@
-# Ignore build artifacts
+# .NET build artifacts
 bin/
 obj/
+
+# Visual Studio
+.vs/
 .vscode/
-*.user
-*.suo
 
 # Logs
 *.log
 
-# Environment and secrets
-*.env
-appsettings.Development.json
+# OS files
+Thumbs.db
+.DS_Store
