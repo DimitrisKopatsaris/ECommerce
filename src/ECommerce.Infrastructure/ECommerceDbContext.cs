@@ -7,8 +7,8 @@ namespace ECommerce.Infrastructure;
 // It knows about all DbSets (tables), relationships, and column configurations.
 public class ECommerceDbContext : DbContext
 {
-    public ECommerceDbContext(DbContextOptions<ECommerceDbContext> options)
-        : base(options) { }
+    public ECommerceDbContext(DbContextOptions<ECommerceDbContext> options)//cofiguration object, passed in the constructor, it is made inside program.cs and we give the information it needs (sql servert connection string) 
+        : base(options) { } //give the congiguration object options to the base DbContext, to create the migration
 
     // === Tables (DbSets) ===
     public DbSet<Customer> Customers => Set<Customer>();
